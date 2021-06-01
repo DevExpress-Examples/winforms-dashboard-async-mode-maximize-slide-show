@@ -15,7 +15,7 @@ API in this example:
 
 * [DashboardViewer.AsyncMode](https://docs.devexpress.com/Dashboard/DevExpress.DashboardWin.DashboardViewer.AsyncMode). Switches to the asynchronous mode. The property is set in the **InitializeComponent** method.
 * [DashboardViewer.MaximizeDashboardItemAsync](https://docs.devexpress.com/Dashboard/DevExpress.DashboardWin.DashboardViewer.MaximizeDashboardItemAsync(System.String)) method. Maximizes the specified dashboard item asynchronously.
-* [DashboardViewer.RestoreDashboardItemAsync](https:/docs.devexpress.devx/Dashboard/DevExpress.DashboardWin.DashboardViewer.RestoreDashboardItemAsync(System.String)) method. Restores the item size if an item is expanded to the entire dashboard size (maximized), asynchronously.
+* [DashboardViewer.RestoreDashboardItemAsync](https://docs.devexpress.com/Dashboard/DevExpress.DashboardWin.DashboardViewer.RestoreDashboardItemAsync) method. Restores the item size if an item is expanded to the entire dashboard size (maximized), asynchronously.
 
 
 ## Documentation
