@@ -18,6 +18,12 @@ API in this example:
 * [DashboardViewer.RestoreDashboardItemAsync](https:/docs.devexpress.devx/Dashboard/DevExpress.DashboardWin.DashboardViewer.RestoreDashboardItemAsync(System.String)) method. Restores the item size if an item is expanded to the entire dashboard size (maximized), asynchronously.
 
 
-See also:
+## Documentation
 
 * [Asynchronous Mode](https://docs.devexpress.com/Dashboard/401305)
+
+## More Examples
+
+- [Dashboard Viewer: How to Get Dashboard Item Data Asynchronously](https://github.com/DevExpress-Examples/winforms-dashboard-async-mode-get-item-data)
+- [Dashboard Viewer: How to Get FIlter Values and Set Master Filter Asynchronously](https://github.com/DevExpress-Examples/winforms-dashboard-async-mode-random-filter)
+- [Dashboard Viewer: How to Invoke the Data Inspector Asynchronously When the Dashboard is Loaded](https://github.com/DevExpress-Examples/winforms-dashboard-async-mode-show-data-inspector)
