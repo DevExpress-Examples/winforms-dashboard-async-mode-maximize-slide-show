@@ -9,9 +9,7 @@ This example demonstrates how to call the asynchronous maximize and restore meth
 
 ![screenshot](/images/screenshot.png)
 
-
-
-API in this example:
+## API
 
 * [DashboardViewer.AsyncMode](https://docs.devexpress.com/Dashboard/DevExpress.DashboardWin.DashboardViewer.AsyncMode). Switches to the asynchronous mode. The property is set in the **InitializeComponent** method.
 * [DashboardViewer.MaximizeDashboardItemAsync](https://docs.devexpress.com/Dashboard/DevExpress.DashboardWin.DashboardViewer.MaximizeDashboardItemAsync(System.String)) method. Maximizes the specified dashboard item asynchronously.
